@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Exo", sans-serif;
 }
 
 /* Hero Section */
@@ -13,8 +15,14 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#mis-trabajos {
+  background-color: black;
+}
+
+#mis-trabajos .image-top {
   height: 250px;
+  background-color: black;
+
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
